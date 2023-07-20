@@ -1,0 +1,13 @@
+{
+  "id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in jisunjisun/ProjectDemo23 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/manifestFinal2.json",
+    "label" : "Ji-sun Kim's First IIIF Manifest"
+  } ]
+}
