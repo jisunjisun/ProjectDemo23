@@ -1,0 +1,339 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Writer",
+      "@type" : "oa:Tag",
+      "chars" : "Writer"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"0\" style=\"text-indent: 10.0pt; mso-pagination: none; text-autospace: none; mso-padding-alt: 0pt 0pt 0pt 0pt;\">朴泰遠",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"0\" style=\"text-indent: 10.0pt; mso-pagination: none; text-autospace: none; mso-padding-alt: 0pt 0pt 0pt 0pt;\">朴泰遠</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104730364016006402965",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-07-21T07:53:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689926004969",
+    "dcterms:modified" : "2023-07-21T07:53:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/manifestFinal2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=569,785,54,184"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M568.5541,785.09542h27.12703v0h27.12703v92.17802v92.17802h-27.12703h-27.12703v-92.17802z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e6f2c198-4949-4b63-b1db-fa62f1c25839\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bd80c76d-9eee-4641-9d7a-86209d5a2644"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">EditorComment:Newspaper serialized novle that mentions Whashin Department Store.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">EditorComment:Newspaper serialized novle that mentions Whashin Department Store.</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "whashinSerializedNovel",
+      "@type" : "oa:Tag",
+      "chars" : "whashinSerializedNovel"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104730364016006402965",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-07-21T07:42:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689925320239",
+    "dcterms:modified" : "2023-07-21T07:42:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/manifestFinal2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=52,456,867,2093"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M51.61143,455.60367h433.53162v0h433.53162v1046.50587v1046.50587h-433.53162h-433.53162v-1046.50587z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_b2cf564c-11c9-4abd-86b4-ead0d4583246\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"4.58537\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bd80c76d-9eee-4641-9d7a-86209d5a2644"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "paragraph",
+      "@type" : "oa:Tag",
+      "chars" : "paragraph"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-size: 14px;\">그래도, 仇甫는, 약간 자신이 잇는듯시픈 거름거리로 電車線路를 두번 횡단하야 화신상회 아프로 간다. 그리고 저도모를사이에 그의발은 백화점 안으로 들어스기조차 하였다.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-size: 14px;\">그래도, 仇甫는, 약간 자신이 잇는듯시픈 거름거리로 電車線路를 두번 횡단하야 화신상회 아프로 간다. 그리고 저도모를사이에 그의발은 백화점 안으로 들어스기조차 하였다.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104730364016006402965",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-07-21T08:05:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689926742561",
+    "dcterms:modified" : "2023-07-21T08:05:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/manifestFinal2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=63,1159,837,689"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M139.10511,1161.19421l1.81818,332.72727l759.09091,3.63636l-8.18182,348.18182l-104.54545,-1.81818v-338.18182h-618.18182v342.72727l-63.63636,-2.72727l-1.81818,-340.90909h-40.90909l1.81818,-345.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_811e3a3b-50b8-42f0-9cd5-dac031178e6f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bd80c76d-9eee-4641-9d7a-86209d5a2644"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">EditorComment:Elevator and illumination of&nbsp;<span style=\"background-color: #fafafa; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Whashin Department Store",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">EditorComment:Elevator and illumination of&nbsp;</span><span style=\"background-color: #fafafa; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Whashin Department Store</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "illustration",
+      "@type" : "oa:Tag",
+      "chars" : "illustration"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104730364016006402965",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-07-21T07:56:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689926199778",
+    "dcterms:modified" : "2023-07-21T07:57:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/manifestFinal2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=176,1509,605,344"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M176.06705,1509.23935h302.74545v0h302.74545v171.83636v171.83636h-302.74545h-302.74545v-171.83636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_bdfd1bfe-6b72-4ff1-83cd-4522e45a6afc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1.53563\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bd80c76d-9eee-4641-9d7a-86209d5a2644"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "paragraph",
+      "@type" : "oa:Tag",
+      "chars" : "paragraph"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-size: 14px;\">젊은 내외가, 너덧살 되여 보이는 아이를 더리고 그곳에가 昇降機를 기다리고 잇섯다. 이제 그들은 食堂으로 가서 그들의 午餐을 질길것이다. 흘낏 仇甫를 본 그들 내외의 눈에는 자긔네들의 幸福을 자랑하고 시퍼하는 마음이 엿보엿는지도 모른다. 仇甫는, 그들을 업신녁여볼까 하다가, 문득 생각을 고쳐, 그들을祝福하여주려하엿다.事實,四,午年以上을 가티 살어왓으면서도,오히려 새로운 기뿜을 가저 이러케 거리로나온 젊은夫婦는 仇甫에게 좀 다른 意味로 서의 부러움을 느끼게 하엿는지도모른다.그들은 分明히 家庭을 가젓고, 그리고 그들은 그 곳에서 當然히그들의幸福을차즐께게다&hellip;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-size: 14px;\">젊은 내외가, 너덧살 되여 보이는 아이를 더리고 그곳에가 昇降機를 기다리고 잇섯다. 이제 그들은 食堂으로 가서 그들의 午餐을 질길것이다. 흘낏 仇甫를 본 그들 내외의 눈에는 자긔네들의 幸福을 자랑하고 시퍼하는 마음이 엿보엿는지도 모른다. 仇甫는, 그들을 업신녁여볼까 하다가, 문득 생각을 고쳐, 그들을祝福하여주려하엿다.事實,四,午年以上을 가티 살어왓으면서도,오히려 새로운 기뿜을 가저 이러케 거리로나온 젊은夫婦는 仇甫에게 좀 다른 意味로 서의 부러움을 느끼게 하엿는지도모른다.그들은 分明히 家庭을 가젓고, 그리고 그들은 그 곳에서 當然히그들의幸福을차즐께게다&hellip;</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104730364016006402965",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-07-21T08:13:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689927239648",
+    "dcterms:modified" : "2023-07-21T08:13:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/manifestFinal2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=65,1537,821,660"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M95.46875,1538.95039l5.45455,311.81818l784.54545,2.72727l-1.81818,343.63636h-671.81818l3.63636,-339.09091l-150.90909,3.63636v-324.54545l30,1.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_cd251117-fa7d-413d-92ec-36392ef7e2e8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bd80c76d-9eee-4641-9d7a-86209d5a2644"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "paragraph",
+      "@type" : "oa:Tag",
+      "chars" : "paragraph"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-size: 14px;\">昇降機가 나려와스고,문이열려지고,닷혀지고,그리고젊은內外는 壽男이나 福童이와더부러 仇甫의 시야를 벗어낫다.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-size: 14px;\">昇降機가 나려와스고,문이열려지고,닷혀지고,그리고젊은內外는 壽男이나 福童이와더부러 仇甫의 시야를 벗어낫다.</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104730364016006402965",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-07-21T08:27:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689928035432",
+    "dcterms:modified" : "2023-07-21T08:27:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/manifestFinal2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=63,1866,145,332"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M207.28693,1868.58544l-140,-2.72727l-4.54545,327.27273l143.63636,4.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_b5dd529d-78a5-47c7-8c39-a3b32553dd1c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bd80c76d-9eee-4641-9d7a-86209d5a2644"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "episodeNumber",
+      "@type" : "oa:Tag",
+      "chars" : "episodeNumber"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "4",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>4</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104730364016006402965",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-07-21T08:38:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689928734052",
+    "dcterms:modified" : "2023-07-21T08:38:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/manifestFinal2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=529,1073,52,60"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M528.9233,1073.40362h26v0h26v30.09091v30.09091h-26h-26v-30.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1b8e63f1-eb46-4705-bfb3-39736cb9c083\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bd80c76d-9eee-4641-9d7a-86209d5a2644"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"0\" style=\"text-indent: 10.0pt; mso-pagination: none; text-autospace: none; mso-padding-alt: 0pt 0pt 0pt 0pt;\"><span style=\"font-family: 함초롬바탕; mso-fareast-font-family: 함초롬바탕; mso-font-width: 100%; letter-spacing: 0pt; mso-text-raise: 0pt; font-weight: bold;\">河戎",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"0\" style=\"text-indent: 10.0pt; mso-pagination: none; text-autospace: none; mso-padding-alt: 0pt 0pt 0pt 0pt;\"><span style=\"font-family: 함초롬바탕; mso-fareast-font-family: 함초롬바탕; mso-font-width: 100%; letter-spacing: 0pt; mso-text-raise: 0pt; font-weight: bold;\">河戎</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "illustrator",
+      "@type" : "oa:Tag",
+      "chars" : "illustrator"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104730364016006402965",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-07-21T07:58:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689926281391",
+    "dcterms:modified" : "2023-07-21T08:01:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/manifestFinal2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=527,837,41,91"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M526.97931,836.53411h20.54545v0h20.54545v45.54545v45.54545h-20.54545h-20.54545v-45.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_8b4e6e61-e235-4285-b475-4f27fe566db2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bd80c76d-9eee-4641-9d7a-86209d5a2644"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Title",
+      "@type" : "oa:Tag",
+      "chars" : "Title"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"0\" style=\"text-indent: 10.0pt; mso-pagination: none; text-autospace: none; mso-padding-alt: 0pt 0pt 0pt 0pt;\">小說家仇甫氏의一日",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p class=\"0\" style=\"text-indent: 10.0pt; mso-pagination: none; text-autospace: none; mso-padding-alt: 0pt 0pt 0pt 0pt;\">小說家仇甫氏의一日</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104730364016006402965",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-07-21T07:52:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1689925928426",
+    "dcterms:modified" : "2023-07-21T07:52:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/manifestFinal2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=629,683,111,338"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M629.33945,682.72011h55.38689v0h55.38689v168.9595v168.9595h-55.38689h-55.38689v-168.9595z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_918a7339-471a-4f52-967c-2581424a75c3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bd80c76d-9eee-4641-9d7a-86209d5a2644"
+    } ]
+  } ],
+  "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/e49adc89857621c2cb56c33f45860205.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
