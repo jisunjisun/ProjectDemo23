@@ -76,7 +76,7 @@
         "value" : "Newspaper"
       } ],
       "otherContent" : [ {
-        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/90aab035d0ffb3912c1286b1c5f88c05.json",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/eaab10024e3b7e8423dbdb7e33f4e187.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ]
@@ -128,7 +128,7 @@
         "value" : "Newspaper"
       } ],
       "otherContent" : [ {
-        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/a786efb0531214aba3711e8db7c7e5d7.json",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/e49adc89857621c2cb56c33f45860205.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ]
@@ -180,7 +180,7 @@
         "value" : "Magazine"
       } ],
       "otherContent" : [ {
-        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/64ea5733730a2e146629358ff468b4ae.json",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/cd275d8b2d1123cdadf5eb22fd683ebf.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ]
@@ -232,7 +232,7 @@
         "value" : "Magazine"
       } ],
       "otherContent" : [ {
-        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/cd275d8b2d1123cdadf5eb22fd683ebf.json",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/64ea5733730a2e146629358ff468b4ae.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ]
@@ -281,7 +281,7 @@
         "value" : "photo"
       } ],
       "otherContent" : [ {
-        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/e49adc89857621c2cb56c33f45860205.json",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/a786efb0531214aba3711e8db7c7e5d7.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ]
@@ -327,7 +327,7 @@
         "value" : "Postcard"
       } ],
       "otherContent" : [ {
-        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/eaab10024e3b7e8423dbdb7e33f4e187.json",
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/90aab035d0ffb3912c1286b1c5f88c05.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ]
