@@ -3,6 +3,11 @@
   "@id" : "https://jisunjisun.github.io/ProjectDemo23/manifests/manifestFinal2.json",
   "@type" : "sc:Manifest",
   "label" : "Ji-sun Kim's First IIIF Manifest",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/104730364016006402965/a83562683b0694ba9972d93a8360e5e9/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Publisher",
     "value" : "Ji-sun Kim"
@@ -69,6 +74,11 @@
       }, {
         "label" : "Type",
         "value" : "Newspaper"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/90aab035d0ffb3912c1286b1c5f88c05.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "http://bd80c76d-9eee-4641-9d7a-86209d5a2644",
@@ -116,6 +126,11 @@
       }, {
         "label" : "Type",
         "value" : "Newspaper"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/a786efb0531214aba3711e8db7c7e5d7.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "http://0460936f-8026-477c-936a-271ea8378ac8",
@@ -163,6 +178,11 @@
       }, {
         "label" : "Type",
         "value" : "Magazine"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/64ea5733730a2e146629358ff468b4ae.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "http://247cc161-c21a-4d0d-b49e-af1cd38c8fe5",
@@ -210,6 +230,11 @@
       }, {
         "label" : "Type",
         "value" : "Magazine"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/cd275d8b2d1123cdadf5eb22fd683ebf.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "http://7c34f14b-4834-45a6-884c-dec07bd95787",
@@ -254,6 +279,11 @@
       }, {
         "label" : "Type",
         "value" : "photo"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/e49adc89857621c2cb56c33f45860205.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     }, {
       "@id" : "http://969afb34-4fd7-4b9d-a746-1d1a3f7dacc7",
@@ -295,6 +325,11 @@
       }, {
         "label" : "Type",
         "value" : "Postcard"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/eaab10024e3b7e8423dbdb7e33f4e187.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ]
     } ]
   } ],
