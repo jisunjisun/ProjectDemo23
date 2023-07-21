@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://jisunjisun.github.io/ProjectDemo23/annotations/90aab035d0ffb3912c1286b1c5f88c05.json", "https://jisunjisun.github.io/ProjectDemo23/annotations/a786efb0531214aba3711e8db7c7e5d7.json", "https://jisunjisun.github.io/ProjectDemo23/annotations/64ea5733730a2e146629358ff468b4ae.json" ],
+  "otherContent" : [ "https://jisunjisun.github.io/ProjectDemo23/annotations/90aab035d0ffb3912c1286b1c5f88c05.json", "https://jisunjisun.github.io/ProjectDemo23/annotations/a786efb0531214aba3711e8db7c7e5d7.json", "https://jisunjisun.github.io/ProjectDemo23/annotations/64ea5733730a2e146629358ff468b4ae.json", "https://jisunjisun.github.io/ProjectDemo23/annotations/cd275d8b2d1123cdadf5eb22fd683ebf.json" ],
   "@id" : "https://jisunjisun.github.io/ProjectDemo23/annotations/collection.json",
   "label" : "All annotations loaded in jisunjisun/ProjectDemo23 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
