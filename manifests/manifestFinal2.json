@@ -92,12 +92,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/ChosunChungang19340804_3_202308/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/chosunchungang19340804_3_202308/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/ChosunChungang19340804_3_202308",
+            "@id" : "https://iiif.archivelab.org/iiif/chosunchungang19340804_3_202308",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 4700,
@@ -144,12 +144,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/samcheonri19351001_142_202308/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/sam-cheon-ri-19351001-142/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/samcheonri19351001_142_202308",
+            "@id" : "https://iiif.archivelab.org/iiif/sam-cheon-ri-19351001-142",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 2485,
