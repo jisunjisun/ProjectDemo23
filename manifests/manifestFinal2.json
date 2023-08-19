@@ -40,12 +40,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/maeil19371009/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/maeil19371009_202308/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/maeil19371009",
+            "@id" : "https://iiif.archivelab.org/iiif/maeil19371009_202308",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 6428,
@@ -92,12 +92,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/ChosunChungang19340804_3/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/ChosunChungang19340804_3_202308/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/ChosunChungang19340804_3",
+            "@id" : "https://iiif.archivelab.org/iiif/ChosunChungang19340804_3_202308",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 4700,
@@ -144,12 +144,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/samcheonri19351001_142/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/samcheonri19351001_142_202308/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/samcheonri19351001_142",
+            "@id" : "https://iiif.archivelab.org/iiif/samcheonri19351001_142_202308",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 2485,
@@ -196,12 +196,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/samcheonri19351001_143/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/samcheonri19351001_143_202308/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/samcheonri19351001_143",
+            "@id" : "https://iiif.archivelab.org/iiif/samcheonri19351001_143_202308",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 2485,
@@ -248,12 +248,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/whashinnmkpan029257/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/whashinnmkpan029257_202308/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/whashinnmkpan029257",
+            "@id" : "https://iiif.archivelab.org/iiif/whashinnmkpan029257_202308",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 1000,
@@ -297,12 +297,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/whashinsmoh16047/full/full/0/default.jpg",
+          "@id" : "https://iiif.archivelab.org/iiif/whashinsmoh16047_202308/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/whashinsmoh16047",
+            "@id" : "https://iiif.archivelab.org/iiif/whashinsmoh16047_202308",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
           "height" : 3066,
